@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj Agrawal</h1>
-<h3 align="center">A passionate frontend developer from India, I am always enthusiastic about problem-solving and learning new areas of computer science as well as other new domains.</h3>
+<h3 align="center">A passionate frontend developer from India, I am always enthusiastic about problem-solving and learning new areas of computer science as well as other new domains. Currently work on React development</h3>
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQGNL9kmVMKf-w/profile-displaybackgroundimage-shrink_350_1400/0/1644341807373?e=1661385600&v=beta&t=bOIL0vW93wCfzhepAV19_wD_WyXq-lPtAf9uuN06lGY" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawalanuj18&label=Profile%20views&color=0e75b6&style=flat" alt="agrawalanuj18" /> </p>
