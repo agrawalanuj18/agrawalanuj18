@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anuj Agrawal</h1>
 <hr>
-<h3 align="center">A passionate frontend developer from India, I am always enthusiastic about problem-solving and learning new areas of computer science as well as other new domains. Currently working on React development</h3>
+<h3 align="center">A passionate Web Developer from India, I am always enthusiastic about problem-solving and learning new areas of computer science as well as other new domains. Currently working on MERN Stack Web development</h3>
 <br>
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQGNL9kmVMKf-w/profile-displaybackgroundimage-shrink_350_1400/0/1644341807373?e=1661385600&v=beta&t=bOIL0vW93wCfzhepAV19_wD_WyXq-lPtAf9uuN06lGY" width="100%">
-
-
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agrawalanuj18" alt="agrawalanuj18" /></a> </p>
 <div align="center">
@@ -12,7 +10,7 @@
 <br>
  🌱 I’m currently learning **ReactJS**
  <br>
- 💬 Ask me about **Frontend development**
+ 💬 Ask me about **Web Development**
 <br>
  📫 How to reach me **agrawalanuj8622@gmail.com**
 </div>
