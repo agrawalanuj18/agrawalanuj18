@@ -8,7 +8,7 @@
 <div align="center">
  🔭 I’m currently working on **Stealth mode**
 <br>
- 🌱 I’m currently learning **ReactJS**
+ 🌱 I’m currently Working on **ReactJS**
  <br>
  💬 Ask me about **Web Development**
 <br>
