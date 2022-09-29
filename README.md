@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anuj Agrawal</h1>
+<h1 align="center">Hi 👋, I am Anuj Agrawal</h1>
 <hr>
 <h3 align="center">A passionate Web Developer from India, I am always enthusiastic about problem-solving and learning new Areas of Computer Science as well as other new domains. Currently working on MERN Stack Web development</h3>
 <br>
