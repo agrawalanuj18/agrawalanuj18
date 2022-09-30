@@ -10,8 +10,6 @@
 <br>
  🌱 I’m currently Working on **ReactJS**
  <br>
- 💬 Ask me about **Web Development**
-<br>
  📫 How to reach me **agrawalanuj8622@gmail.com**
 </div>
 <br><br>
