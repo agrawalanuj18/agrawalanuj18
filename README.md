@@ -1,10 +1,10 @@
 <h1 align="center">Hii 👋, I am Anuj Agrawal</h1>
 <hr>
-<h3 align="center">A Passionate Web Developer from India, I am always enthusiastic about Problem-Solving and learning new Areas of Computer Science as well as other new domains. Currently working on MERN Stack Web development</h3>
+<h2 align="center">A Passionate Web Developer from India, I am always enthusiastic about Problem-Solving and learning new Areas of Computer Science as well as other new domains. Currently working on MERN Stack Web development</h2>
 <br>
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQGNL9kmVMKf-w/profile-displaybackgroundimage-shrink_350_1400/0/1644341807373?e=1661385600&v=beta&t=bOIL0vW93wCfzhepAV19_wD_WyXq-lPtAf9uuN06lGY" width="100%">
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agrawalanuj18" alt="agrawalanuj18" /></a> </p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agrawalanuj18" alt="agrawalanuj18" /></a> </p>
 <div align="center">
  🔭 I’m currently working on *Stealth mode*
 <br>
@@ -15,7 +15,7 @@
 <br><br>
 <hr>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:-</h3>
 <p align="center">
 <a href="https://twitter.com/agrawalanuj018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agrawalanuj018" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/agrawalanuj018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agrawalanuj018" height="30" width="40" /></a>
@@ -30,7 +30,7 @@
 <br>
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrawalanuj18&show_icons=true&locale=en&layout=compact" alt="agrawalanuj18" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrawalanuj18&show_icons=true&locale=en&layout=compact" alt="agrawalanuj18"/></p>
 
 <br>
 
@@ -38,5 +38,3 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalanuj18&" alt="agrawalanuj18" /></p>
-
-
