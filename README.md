@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Anuj Agrawal</h1>
+<h1 align="center">Hii 👋, I am Anuj Agrawal</h1>
 <hr>
 <h3 align="center">A Passionate Web Developer from India, I am always enthusiastic about Problem-Solving and learning new Areas of Computer Science as well as other new domains. Currently working on MERN Stack Web development</h3>
 <br>
@@ -6,11 +6,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agrawalanuj18" alt="agrawalanuj18" /></a> </p>
 <div align="center">
- 🔭 I’m currently working on **Stealth mode**
+ 🔭 I’m currently working on *Stealth mode*
 <br>
- 🌱 I’m currently Working on **ReactJS**
+ 🌱 I’m currently Working on *ReactJS*
  <br>
- 📫 How to reach me **agrawalanuj8622@gmail.com**
+ 📫 How to reach me *agrawalanuj8622@gmail.com*
 </div>
 <br><br>
 <hr>
