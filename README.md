@@ -6,8 +6,6 @@
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agrawalanuj18" alt="agrawalanuj18" /></a> </p>
 <div align="center">
-<br>
- 🌱 I’m currently Working on *ReactJS*
  <br>
  📫 You Can reach me at *agrawalanuj8622@gmail.com*
 </div>
