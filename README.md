@@ -1,6 +1,7 @@
 <h1 align="center">Hii 👋, I am Anuj Agrawal</h1>
 <hr>
-<h2 align="center">A Passionate Web Developer from India, I am always Enthusiastic about Problem-Solving and learning new Areas of Computer Science as well as other new domains. Currently working on <b>MERN Stack</b> Web development</h2>
+<h2 align="center">A Passionate Web Developer from India, I am always Enthusiastic about Problem-Solving and learning new Areas of Computer Science as well as other new domains. Currently working on <b>MERN Stack</b> Web development. <br> Looking forward to engaging in worthwhile discussions and collaborations with me? 
+I'd be more than happy to connect!</h2>
 <br>
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQGNL9kmVMKf-w/profile-displaybackgroundimage-shrink_350_1400/0/1644341807373?e=1661385600&v=beta&t=bOIL0vW93wCfzhepAV19_wD_WyXq-lPtAf9uuN06lGY" width="100%">
 
