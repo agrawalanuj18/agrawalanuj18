@@ -12,7 +12,7 @@ I'd be more than happy to connect!
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agrawalanuj18" alt="agrawalanuj18" /></a> </p>
 <div align="center">
  <br>
- 📫 You Can reach me at *agrawalanuj8622@gmail.com*
+ 📫 You Can reach me at agrawalanuj8622@gmail.com
 </div>
 <br><br>
 <hr>
