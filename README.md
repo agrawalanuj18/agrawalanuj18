@@ -3,9 +3,6 @@
 <h2 align="center">A Passionate Web Developer from India, I am always Enthusiastic about Problem-Solving and learning new Areas of Computer Science. Currently working on <b>MERN Stack</b> Web development. <br> Looking forward to engaging in worthwhile discussions!!! <br> With my substantial involvement in this domain for the past 1.5 years, I’ve also managed to grab a designation of a ‘Web developer’ as interns in some reputed startups. 
 </h2>
 <br>
-<h2> 
-I'd be more than happy to connect!
-</h2>
 <br>
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQGNL9kmVMKf-w/profile-displaybackgroundimage-shrink_350_1400/0/1644341807373?e=1661385600&v=beta&t=bOIL0vW93wCfzhepAV19_wD_WyXq-lPtAf9uuN06lGY" width="100%">
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agrawalanuj18" alt="agrawalanuj18" /></a> </p>
