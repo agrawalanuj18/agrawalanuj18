@@ -29,7 +29,5 @@ You Can reach me at agrawalanuj8622@gmail.com
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agrawalanuj18&show_icons=true&locale=en" alt="agrawalanuj18" /></p>
 <br>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalanuj18&theme=default" alt="GitHub Streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalanuj18&" alt="agrawalanuj18" /></p>
 
